@@ -22,5 +22,5 @@ mvn clean package
 ```
 * run the job
 ```
-/usr/local/flink-1.14.3/bin/flink run target/
+/usr/local/flink-1.14.3/bin/flink run target/test-flink-1.0-SNAPSHOT-dist.jar
 ```
